@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch cSequentialSearch",
+            "request": "launch",
+            "mainClass": "javaapplication2.cSequentialSearch",
+            "projectName": "coding_b907662c"
+        },
+        {
+            "type": "java",
+            "name": "Launch cBubble_Sort",
+            "request": "launch",
+            "mainClass": "javaapplication2.cBubble_Sort"
+        },
+        {
+            "type": "java",
+            "name": "Launch cArray",
+            "request": "launch",
+            "mainClass": "javaapplication2.cArray"
+        },
+        {
+            "type": "java",
+            "name": "Launch cMergeSort",
+            "request": "launch",
+            "mainClass": "javaapplication2.cMergeSort",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch cMeth_Func",
+            "request": "launch",
+            "mainClass": "javaapplication2.cMeth_Func",
+            "projectName": ""
+        },
+        {
+            "name": "Dart & Flutter",
+            "request": "launch",
+            "type": "dart",
+            "program": "Mobile 1 BTNG/pertemuan3.dart"
+        }
+    ]
+}
